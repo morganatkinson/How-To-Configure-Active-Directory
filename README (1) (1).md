@@ -1,3 +1,7 @@
+Watch Me Create This Lab.
+https://www.loom.com/share/ad2cbef8d64f44d892b2c25109f3451d?utm_medium=gif
+https://www.loom.com/share/42d41d950bcc433ba531d6b54c52422e?utm_medium=gif
+
 # How to Configure Active Directory
 
 ## Steps
